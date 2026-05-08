@@ -1,0 +1,13 @@
+package com.ore.preppc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PrepPcApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(PrepPcApplication.class, args);
+    }
+
+}
